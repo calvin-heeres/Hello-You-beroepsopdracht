@@ -1,2 +1,1 @@
-"# Hello-You-beroepsopdracht" 
-"# Hello-You-beroepsopdracht" 
+dit is de eerste beroepsopdracht die ik op hetMediacollege Amsterdam bij de opleiding Softwaredevelopment gekregen heb. Het is een verhaal over eennieuwkomer in Nederland. Dit is gebaseerd op allerleiverhalen die ik gelezen en gehoord hebt. Hiervan heb ikeen tekstbased applicatie in Python gemaakt om hetverhaal ook door anderen te laten beleven. Doorverschillende keuzes in het verhaal te maken zullen er
